@@ -1,7 +1,7 @@
 # Uchechi  - Data Analyst Journey
 
 ### About 
-Hi, I'm Uchechi! I have a solid background in software functional testing and fraud prevention, with a deep passion for using data to uncover meaningful insights. Currently, I am focused on a journey to re-mastering SQL and learning  Tableau, and Power BI as part of my journey into data analytics.
+Hi, I'm Uchechi! I have a solid background in software functional testing and fraud prevention, with a deep passion for using data to uncover meaningful insights. Currently, I am focused on a journey to re-mastering SQL and learning Tableau.
 
 Over the years, I have built a strong foundation in compliance and fraud prevention, driven by a commitment to leveraging data for informed decision-making. In my free time, I enjoy exploring new data analysis tools and techniques, constantly seeking opportunities to expand my knowledge and skills.
 
