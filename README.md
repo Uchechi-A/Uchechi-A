@@ -14,13 +14,9 @@ This is a repository to showcase skills and my journey, share projects and track
 
 
 
-
-
-
 - 👋 Hi, I’m @Uchechi-A
-- 👀 Looking at dashboard and picking out insights is one of the fufilling things I like doing
-- Having worked in several positions where I am only a dashboard consumer (for decision making),I started out on a jurney to build and visualise recorded data myself and not relying on automated database
-- 🌱 I’m currently on learning tableau and below are few projects I have taken on so far.
+- 👀Diving into dashboards and uncovering insights is something I genuinely enjoy. After years of making decisions based on pre-built dashboards, I decided to take control of the data myself. I embarked on a journey to master data visualization and build my own insights, rather than relying solely on automated systems.
+- 🌱 I'm currently learning Tableau, and here are a few projects I've been working on so far.
 - ⚡ Fun fact: ...
 
 <!---
