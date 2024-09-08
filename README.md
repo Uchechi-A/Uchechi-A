@@ -18,8 +18,9 @@ This is a repository to showcase skills and my journey, share projects and track
 
 
 - 👋 Hi, I’m @Uchechi-A
-- 👀 I’m interested in visualization tools
-- 🌱 I’m currently on learning tableau
+- 👀 Looking at dashboard and picking out insights is one of the fufilling things I like doing
+- Having worked in several positions where I am only a dashboard consumer (for decision making),I started out on a jurney to build and visualise recorded data myself and not relying on automated database
+- 🌱 I’m currently on learning tableau and below are few projects I have taken on so far.
 - ⚡ Fun fact: ...
 
 <!---
