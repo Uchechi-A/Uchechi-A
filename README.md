@@ -19,7 +19,7 @@ Description: The dataset contains HR data records. The records include the emplo
 
 Skills: data analysis, data visualization.
 
-Technology/Tool: Tabeau.
+Technology/tool: Tableau.
 
 Results:The insights reveal that attrition rates are particularly high in the R&D and Sales departments. Employees with bachelor's and master's degrees show higher attrition rates. When job satisfaction is considered,R&D and Sales departments also showed record high dissatisfactory rate. Additionally, men across all age groups also experience elevated attrition rates. 
 
