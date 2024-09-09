@@ -9,6 +9,20 @@ Over the years, I have built a strong foundation in compliance and fraud prevent
 - 🌱 I'm currently learning Tableau, and here are a few projects I've been working on so far.
 - ⚡ Fun fact: ...
 
+# Project
+
+## HR Analytics Dashboard
+
+Goal: To determined the attrition rate in the company and extract insights on attrition rate based on department, educational qualification, gender and age group.
+
+Description: The dataset contains HR data records. The records include the employee information (education field, gender, age group, department, hourly rate, monthly income,attrition overtime etc). 
+
+Skills: data analysis, data visualization.
+
+Technology/Tool: Tabeau.
+
+Results:The insights reveal that attrition rates are particularly high in the R&D and Sales departments. Employees with bachelor's and master's degrees show higher attrition rates. When job satisfaction is considered,R&D and Sales departments also showed record high dissatisfactory rate. Additionally, men across all age groups also experience elevated attrition rates. 
+
 <!---
 Uchechi-A/Uchechi-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
