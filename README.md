@@ -13,6 +13,8 @@ Over the years, I have built a strong foundation in compliance and fraud prevent
 
 ## HR Analytics Dashboard
 
+![HR screenshot](https://github.com/user-attachments/assets/287a7625-4f7c-46da-8584-f31d5c89360d)
+
 Goal: To determined the attrition rate in the company and extract insights on attrition rate based on department, educational qualification, gender and age group.
 
 Description: The dataset contains HR data records. The records include the employee information (education field, gender, age group, department, hourly rate, monthly income,attrition overtime etc). 
