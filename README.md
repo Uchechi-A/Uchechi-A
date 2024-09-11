@@ -8,7 +8,7 @@ Over the years, I have built a strong foundation in compliance and fraud prevent
 - 👀 Diving into dashboards and uncovering insights is something I genuinely enjoy. After years of making decisions based on pre-built dashboards, I decided to take control of the data myself. I embarked on a journey to master data visualization and build my own insights, rather than relying solely on automated systems.
   
 - 🌱 I'm currently learning Tableau, and here are a few projects I've been working on so far.
-- ⚡ Fun fact: ...
+
 
 # Project
 
